@@ -16,10 +16,10 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        import LP1
+        import LR1
  
  
  
 elif bit == "32bit":
  
-        import LP01
+        import LR2
